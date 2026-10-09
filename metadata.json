@@ -1,0 +1,6 @@
+{
+  "name": "AgroÉpargne — Épargne Agricole & Intrants Certifiés",
+  "description": "Plateforme de micro-épargne progressive (layaway) par cartes à gratter et Mobile Money permettant aux producteurs agricoles d'acquérir des semences certifiées, engrais micro-dosés et formations agronomiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
